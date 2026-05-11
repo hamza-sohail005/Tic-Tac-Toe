@@ -2,6 +2,8 @@
 
 A classic Tic Tac Toe game built with React 19 and Vite, featuring a glassmorphism UI, animated winner highlighting, and full move history with time travel.
 
+**Live Demo:** [https://whimsical-marshmallow-24ea61.netlify.app/](https://whimsical-marshmallow-24ea61.netlify.app/)
+
 ## Features
 
 - **Two-player gameplay** — Players alternate between X and O
